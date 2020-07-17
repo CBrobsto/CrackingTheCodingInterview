@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CBrobsto/CrackingTheCodingInterview/issues"
   },
-  "homepage": "https://github.com/CBrobsto/CrackingTheCodingInterview#readme"
+  "homepage": "https://github.com/CBrobsto/CrackingTheCodingInterview#readme",
+  "dependencies": {
+    "linked-list": "^2.1.0"
+  }
 }
