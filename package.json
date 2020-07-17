@@ -1,0 +1,22 @@
+{
+  "name": "crackingthecodinginterview",
+  "version": "1.0.0",
+  "description": "Javascript solutions to the problems in 'Cracking the Coding Interview' 6th edition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CBrobsto/CrackingTheCodingInterview.git"
+  },
+  "author": "Cody Brobston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CBrobsto/CrackingTheCodingInterview/issues"
+  },
+  "homepage": "https://github.com/CBrobsto/CrackingTheCodingInterview#readme",
+  "dependencies": {
+    "linked-list": "^2.1.0"
+  }
+}
